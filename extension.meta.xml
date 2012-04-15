@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="archivedfilter" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Archived Filter</name>
+	<description>Adds a toggle button to the Publish index to show/hide archived items (hiding by default).</description>
+	<repo type="github">https://github.com/brockpetrie/archivedfilter</repo>
+	<url type="discuss">http://symphony-cms.com/discuss/thread/71669/</url>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="brockpetrie" symphony="brockpetrie">Brock Petrie</name>
+			<website>http://www.brockpetrie.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2011-06-15" min="2.2.0">Initial release</release>
+	</releases>
+</extension>
