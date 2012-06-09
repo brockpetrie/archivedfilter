@@ -5,7 +5,7 @@
 		/**
 		 * Extension information
 		 */	
-		public function about() {
+		/*public function about() {
 			return array(
 				'name' => 'Archived Filter',
 				'version' => '1.0',
@@ -17,7 +17,7 @@
 				),
 				'description' => 'Adds a toggle button to show/hide archived items.'
 			);
-		}
+		}*/
 
 		/**
 		 * Add callback functions to backend delegates
